@@ -1,6 +1,6 @@
 <h3 align="center">Hi Ali Ammad Zahid Here</h3>
  
-- 🔭 **I am a Full Stack Developer Specialized in Ruby Based Frameworks and Technologies with over 7 years of experience in commercial application development. Proficient in modern technologies and adept at navigating all stages of the Full Stack development cycle. Eager to bring my skills to a dynamic team and contribute to innovative projects.**
+-  **I am a Full Stack Developer Specialized in Ruby Based Frameworks and Technologies with over 7 years of experience in commercial application development. Proficient in modern technologies and adept at navigating all stages of the Full Stack development cycle. Eager to bring my skills to a dynamic team and contribute to innovative projects.**
  
 - 📫 How to reach me **aliammadzahid89@gmail.com**
 <h3 align="left">Connect with me:</h3>
