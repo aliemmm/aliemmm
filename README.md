@@ -3,7 +3,8 @@
 I am a Full Stack Developer Specialized in Ruby Based Frameworks and Technologies with over 7 years of experience in commercial application development. Proficient in modern technologies and adept at navigating all stages of the Full Stack development cycle. Eager to bring my skills to a dynamic team and contribute to innovative projects.
  
 For mail **aliammadzahid89@gmail.com**
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Check my linkedin profile:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/riffat-adnan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/riffat-adnan/" height="30" width="40" /></a>
 </p>
@@ -48,4 +49,4 @@ For mail **aliammadzahid89@gmail.com**
 <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/></a>
 <!-- Netlify -->
 <a href="https://www.netlify.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40"/></a>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliemmm&show_icons=true&locale=en&layout=compact&langs_count=10" alt="aliemmm" /></p>
