@@ -3,13 +3,7 @@
 I am a Full Stack Developer Specialized in Ruby Based Frameworks and Technologies with over 7 years of experience in commercial application development. Proficient in modern technologies and adept at navigating all stages of the Full Stack development cycle. Eager to bring my skills to a dynamic team and contribute to innovative projects.
 
 
-<h3 align="left">For Profile Visit </h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ali-ammad-zahid-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-ammad-zahid-/" height="30" width="40" /></a>
-</p>
-<h3 align="left">For Contact </h3>
- <a href="mailto:aliammadzahid89@gmail.com?subject=Exciting Opportunity&body=Hi Ali, I hope this message finds you well. I would like to discuss an exciting opportunity with you. Please let me know your availability for a quick chat.">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail Icon" width="40" height="40" />
+
 </a>
 
 <h3 align="left">Skills and Technologies</h3>
@@ -52,4 +46,14 @@ I am a Full Stack Developer Specialized in Ruby Based Frameworks and Technologie
 <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/></a>
 <!-- Netlify -->
 <a href="https://www.netlify.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40"/></a>
+
+<h3 align="left">For Profile Visit </h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ali-ammad-zahid-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-ammad-zahid-/" height="30" width="40" /></a>
+</p>
+<h3 align="left">For Contact </h3>
+ <a href="mailto:aliammadzahid89@gmail.com?subject=Exciting Opportunity&body=Hi Ali, I hope this message finds you well. I would like to discuss an exciting opportunity with you. Please let me know your availability for a quick chat.">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail Icon" width="40" height="40" />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliemmm&show_icons=true&locale=en&layout=compact&langs_count=10" alt="aliemmm" /></p>
+
+
