@@ -1,14 +1,17 @@
 
 <h3 align="center">Ali Ammad Zahid</h3> 
 I am a Full Stack Developer Specialized in Ruby Based Frameworks and Technologies with over 7 years of experience in commercial application development. Proficient in modern technologies and adept at navigating all stages of the Full Stack development cycle. Eager to bring my skills to a dynamic team and contribute to innovative projects.
- 
-For mail **aliammadzahid89@gmail.com**
 
-<h3 align="left">Check my linkedin profile:</h3>
+
+<h3 align="left">For Profile Visit </h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/riffat-adnan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/riffat-adnan/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ali-ammad-zahid-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-ammad-zahid-/" height="30" width="40" /></a>
 </p>
- 
+<h3 align="left">For Contact </h3>
+ <a href="mailto:aliammadzahid89@gmail.com?subject=Exciting Opportunity&body=Hi Ali, I hope this message finds you well. I would like to discuss an exciting opportunity with you. Please let me know your availability for a quick chat.">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail Icon" width="40" height="40" />
+</a>
+
 <h3 align="left">Skills and Technologies</h3>
 <p align="left">
 <!-- Ruby -->
